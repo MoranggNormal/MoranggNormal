@@ -5,6 +5,8 @@
 :computer: I'm <Front-End /> Developer in training!
 :books: I’m currently learning everything.
 
-## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+ <div>
+  <a href="https://github.com/MoranggNormal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramosbrp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosbrp&layout=compact&langs_count=7&theme=dracula"/>
+</div>
