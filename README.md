@@ -1,6 +1,6 @@
-# :astonished: Wow, you came here! :flushed:
+# Hey there! :flushed:
  
- ## :computer: Greetings, I'm <i>&lt;Euller /&gt;</i> and i'm a Front End Developer in training!
+ ## :computer: Greetings, I'm <i>&lt;Euller /&gt;</i> and i'm a Front End Developer!
  
  ### As a Front End focused developer, i'm currently on:
  
