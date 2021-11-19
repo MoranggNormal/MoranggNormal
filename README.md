@@ -31,7 +31,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=dracula"/>
  </a>
- <p>(Oh yeah, it's acually showing the amount of code on my <a href="https://github.com/MoranggNormal/poketibia">Poketibia Project</a></p>
 </setion>
 
 
