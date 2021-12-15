@@ -62,7 +62,6 @@
  
   <a href="mailto:peixotoeuller500@gmail.com">
  <img height="23" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <p>peixotooeuller500@gmail.com</p>
   </a>
  
   <a href="https://api.whatsapp.com/send/?phone=5581987430455&text&app_absent=0">
