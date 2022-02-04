@@ -48,7 +48,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10"/>
  </a>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoranggNormal)](https://github.com/anuraghazra/github-readme-stats)
+ [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </setion>
 
 
