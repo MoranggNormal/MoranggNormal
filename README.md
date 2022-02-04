@@ -2,6 +2,12 @@
  
  ## :computer: Greetings, I'm <i>&lt;Euller /&gt;</i> and i'm a Front End Developer!
  
+ <section>
+ 
+ [![Euller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal)](https://epeixoto.me)
+ 
+ </section>
+ 
  ### As a Front End focused developer, i'm currently on:
  
   <div>
