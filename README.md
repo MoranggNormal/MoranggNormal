@@ -4,7 +4,7 @@
  
  <section>
  
- [![Euller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal)](https://epeixoto.me)
+ [![Euller's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal&theme=synthwave)](https://epeixoto.me)
  
  </section>
  
