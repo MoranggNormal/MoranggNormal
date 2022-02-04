@@ -44,7 +44,7 @@
  
  <section>
   <a href="https://github.com/MoranggNormal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&langs_count=10"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave"/>
  </a>
 </setion>
