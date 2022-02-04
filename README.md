@@ -42,18 +42,28 @@
  
  <br>
  
- <section>
+ <section style="display: flex">
  
- [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoranggNormal&card_width=500&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)](https://epeixoto.me)
+ <div style="width: 50%">
  
- [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10&card_width=500)](https://epeixoto.me)
+ [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)](https://epeixoto.me)
+ 
+ </div>
+ 
+ <div style="width: 50%">
+ 
+ [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10)](https://epeixoto.me)
+ 
+ <div>
+ 
 </setion>
+
 
 
 ## May we have a talk? :coffee:
 
-<section>
- <h4>You can contact me on:</h1>
+<section >
+ <h4 >You can contact me on:</h1>
  <a href="https://www.linkedin.com/in/euller-peixoto/">
     <img height= "20"src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
