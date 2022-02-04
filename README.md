@@ -44,7 +44,7 @@
  
  <section>
  
- [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&card_width=50)](https://epeixoto.me)
+ [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoranggNormal&card_width=50&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)](https://epeixoto.me)
  
  [![Euller's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10&card_width=50)](https://epeixoto.me)
 </setion>
