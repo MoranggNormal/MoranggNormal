@@ -50,19 +50,9 @@
  
  <br>
  
- <section>
+ | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10&" /></a> |
+| ------------- | ------------- |
  
- <a href="https://epeixoto.me">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
- </a>
- 
-
- <a href="https://epeixoto.me">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10&" />
- </a>
- 
-</setion>
-
 
 ## May we have a talk? :coffee:
 
