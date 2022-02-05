@@ -71,7 +71,7 @@
 ## May we have a talk? :coffee:
 
 <section>
- <h4>You can contact me on:</h1>
+ <h4>You may contact me on:</h1>
  
  <a href="https://www.linkedin.com/in/euller-peixoto/">
     <img height= "20"src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
