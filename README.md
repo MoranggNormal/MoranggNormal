@@ -9,8 +9,7 @@
  | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal&theme=synthwave" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoranggNormal&theme=synthwave" /></a> |
 | ------------- | ------------- |
  
- <img src="https://github-profile-trophy.vercel.app/?username=MoranggNormal
-" />
+ <img src="https://github-profile-trophy.vercel.app/?username=MoranggNormal" />
  
  
  </section>
