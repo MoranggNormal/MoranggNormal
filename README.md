@@ -6,7 +6,7 @@
  
 
  
- | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal&theme=synthwave" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoranggNormal&theme=synthwave" /></a> |
+ | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal&theme=dracula" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoranggNormal&theme=dracula" /></a> |
 | ------------- | ------------- |
   
  
@@ -64,7 +64,7 @@
  
  <br>
  
- | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=synthwave&langs_count=10" /></a> |
+ | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MoranggNormal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoranggNormal&layout=compact&theme=dracula&langs_count=10" /></a> |
 | ------------- | ------------- |
  
 
