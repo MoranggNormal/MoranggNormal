@@ -6,7 +6,7 @@
  
 
  
- | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal&theme=dracula&v=2" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoranggNormal&theme=dracula" /></a> |
+ | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MoranggNormal&theme=dracula&v=2&layout=compact" /></a> | <a href="https://epeixoto.me"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoranggNormal&theme=dracula" /></a> |
 | ------------- | ------------- |
   
  
