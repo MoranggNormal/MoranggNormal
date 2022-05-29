@@ -85,22 +85,5 @@
  <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
  
-  <a href="https://dev.to/eullerpeixoto">
-    <img height= "20"src= "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
- </a>
- 
- <a href="https://t.me/EullerPeixoto">
-    <img height= "20"src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
- </a>
- 
-  <a href="https://www.facebook.com/euller.peixoto.18">
-    <img height= "20"src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
- </a>
- 
-  <a href="https://api.whatsapp.com/send/?phone=5581987430455&text&app_absent=0">
-    <img height= "20"src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- </a>
-
- 
 </section>
  
