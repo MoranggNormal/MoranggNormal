@@ -47,10 +47,10 @@
 <a href="https://www.linkedin.com/in/euller-peixoto/">
    <img src= "https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:epeixoto.dev@gmail.com">
+<a href="mailto:contact@epeixoto.dev">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/eulr.sh/">
+<a href="https://www.instagram.com/epeixoto.dev">
    <img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
